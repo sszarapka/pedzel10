@@ -1,6 +1,6 @@
 ## Hi, I’m Stanisław 👋
 - :desktop_computer: Currently learning JavaScript
-- :adult: 18 years old
+- :adult: 19 years old
 - :red_car: Cars
 - :muscle: Calisthenics
 - :headphones: Music
